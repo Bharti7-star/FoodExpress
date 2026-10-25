@@ -1,5 +1,5 @@
 
-```java
+
 package com.foodie.model;
 
 import java.util.List;
@@ -70,4 +70,4 @@ public class OrderRequest {
         this.items = items;
     }
 }
-```
+
