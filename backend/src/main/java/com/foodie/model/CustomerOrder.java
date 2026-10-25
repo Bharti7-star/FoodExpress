@@ -1,5 +1,4 @@
 
-```java
 package com.foodie.model;
 
 import jakarta.persistence.*;
@@ -70,4 +69,4 @@ public class CustomerOrder {
         this.itemsJson = itemsJson;
     }
 }
-```
+
