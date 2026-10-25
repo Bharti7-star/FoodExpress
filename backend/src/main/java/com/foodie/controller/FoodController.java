@@ -1,5 +1,5 @@
 
-```java
+
 package com.foodie.controller;
 
 import com.foodie.model.CustomerOrder;
@@ -55,4 +55,4 @@ public class FoodController {
         return Map.of("status", "Backend is running");
     }
 }
-```
+
